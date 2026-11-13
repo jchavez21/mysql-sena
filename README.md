@@ -9,6 +9,7 @@ Scripts de MySQL que hago en mi formación de Análisis y Desarrollo de Software
 ## Organización
 Cada carpeta corresponde a un módulo de mi ruta de aprendizaje:
 
+- `modulo-02`: CREATE TABLE, ALTER TABLE y restricciones (tabla libros)
 - `modulo-03`: restricciones, INSERT y UPDATE (tabla socios)
 
 ## Autor
