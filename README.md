@@ -1,4 +1,4 @@
-\# MySQL SENA
+﻿# MySQL SENA
 
 
 
@@ -6,25 +6,25 @@ Scripts de MySQL que hago en mi formación de Análisis y Desarrollo de Software
 
 
 
-\## Herramientas
+## Herramientas
 
-\- MySQL 8.4
+- MySQL 8.4
 
-\- MySQL Workbench 26.7
+- MySQL Workbench 26.7
 
 
 
-\## Organización
+## Organización
 
 Cada carpeta corresponde a un módulo de mi ruta de aprendizaje:
 
 
 
-\- modulo-03: restricciones, INSERT, UPDATE y DELETE (tabla socios)
+- modulo-03: restricciones, INSERT, UPDATE y DELETE (tabla socios)
 
 
 
-\## Autor
+## Autor
 
 Yeferson Chávez — GitHub: jchavez21
 
